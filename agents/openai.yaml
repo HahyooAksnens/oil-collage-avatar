@@ -1,0 +1,4 @@
+interface:
+  display_name: "怪趣油彩拼贴头像"
+  short_description: "把照片变成俏皮抽象、浓烈撞色、油彩笔触与平面动画结合的怪趣拼贴头像"
+  default_prompt: "使用 $oil-collage-avatar 将我的照片变成怪趣、俏皮、抽象的油彩拼贴头像，颜色丰富，不要花朵，也不要精致美化。"
